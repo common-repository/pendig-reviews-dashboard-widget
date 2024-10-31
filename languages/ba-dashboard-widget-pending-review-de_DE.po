@@ -1,0 +1,67 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ba-dashboard-widget-pending-review\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-07-19 21:02+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Stefan Brandt <blog@brandt-net.de>\n"
+"Language-Team: brandt-net.de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ba-dashboard-widget-pending-review.php:73
+msgid "by"
+msgstr "von"
+
+#: ba-dashboard-widget-pending-review.php:80
+#, php-format
+msgid "%s ago"
+msgstr "%s ago"
+
+#: ba-dashboard-widget-pending-review.php:82
+msgid "Y/m/d"
+msgstr "Y/m/d"
+
+#: ba-dashboard-widget-pending-review.php:85
+#, php-format
+msgid "&#8212; %s"
+msgstr "&#8212; %s"
+
+#: ba-dashboard-widget-pending-review.php:85
+msgid "Y/m/d H:i:s"
+msgstr "Y/m/d H:i:s"
+
+#: ba-dashboard-widget-pending-review.php:93
+msgid "No pending posts found."
+msgstr "Keine wartenden Beiträge gefunden."
+
+#: ba-dashboard-widget-pending-review.php:112
+msgid "How many pending entrys would you like to display?"
+msgstr "Anzahl der maximal angezeigten Einträge: "
+
+#: ba-dashboard-widget-pending-review.php:124
+msgid "Hide Pages?"
+msgstr "Seiten ausschliessen?"
+
+#: ba-dashboard-widget-pending-review.php:130
+msgid "Show author?"
+msgstr "Author anzeigen?"
+
+#: ba-dashboard-widget-pending-review.php:135
+msgid "Show date?"
+msgstr "Datum anzeigen?"
+
+#: ba-dashboard-widget-pending-review.php:152
+msgid "Pending Reviews"
+msgstr "Ausstehende Reviews"
+
+#~ msgid "by %s"
+#~ msgstr "von %s"
+
